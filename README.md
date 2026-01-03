@@ -1,4 +1,4 @@
-# Hola, soy Nick. Sienteté comodo por ir explorando mi perfil 😸
+# Hola soy Nick. Bienvenido a mi Github 😸
 
 ### 👁️ SOBRE MI
 
