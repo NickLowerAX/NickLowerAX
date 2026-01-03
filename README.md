@@ -8,20 +8,18 @@
 
 ### ⚙️ &nbsp;GitHub Analytics
 
-<div align="center">
-  <img height="180em"
-       src="https://github-readme-stats-eight-theta.vercel.app/api?username=NickLowerAX&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em"
-       src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=NickLowerAX&layout=compact&langs_count=8&theme=algolia"/>
-</div>
+<p align="center">
+  <a href="https://github.com/NickLowerAX">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=NickLowerAX&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  </a>
+  <a href="https://github.com/NickLowerAX">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=NickLowerAX&layout=compact&langs_count=8&theme=algolia"/>
+  </a>
+</p>
 
-<br/>
-
-<!-- Racha centrada con llama naranja -->
-<div align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=NickLowerAX&theme=algolia&fire=orange&ring=orange&currStreakLabel=orange"/>
-</div>
+<p align="center">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=NickLowerAX&theme=dark&hide_border=true"/>
+</p>>
 
 
 
