@@ -19,9 +19,7 @@
 
 <p align="center">
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=NickLowerAX&theme=dark&hide_border=true"/>
-</p>>
-
-
+</p>
 
 🔗 &nbsp;Contactame por estos medios
 <a href="mailto:nicklowshiny@gmail.com"><img src="https://img.shields.io/badge/-nicklowshiny-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
