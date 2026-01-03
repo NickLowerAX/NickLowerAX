@@ -1,4 +1,10 @@
-# Hola a todos, bienvenidos 👋
+# Hola, soy Nick. Sienteté comodo por ir explorando mi perfil 😸
+
+### 👁️ SOBRE MI
+
+# ✨ Soy un estudiante universitario (Muy pronto Ingeniero en Sistemas y Redes Informatica)
+# 📢 Tengo conocimientos de Marketing Digital Empresarial
+# 💡Estoy en constante aprendisaje
 
 ### ⚙️ &nbsp;GitHub Analytics
 
