@@ -18,8 +18,11 @@
 </p>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=NickLowerAX&theme=dark&hide_border=true"/>
+  <a href="https://github.com/NickLowerAX">
+    <img src="https://streak-stats.demolab.com?user=NickLowerAX&theme=algolia"/>
+  </a>
 </p>
+
 
 
 🔗 &nbsp;Contactame por estos medios
